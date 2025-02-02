@@ -1,4 +1,4 @@
-# [Project Name] 🎯
+# CleanAura 🎯
 
 
 ## Basic Details
