@@ -38,42 +38,42 @@ firebase login
 firebase init
 
 # Run
-firebase serve
+```bash
+ firebase serve
 
 ### Project Documentation
 For Software:
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-![Image](https://github.com/user-attachments/assets/d44a90c4-9426-4754-8af0-ed9d0c15297b)
+![Screenshot1]
+![Image](https://github.com/user-attachments/assets/907694c5-0a35-4de6-af9c-b2bbd301c880)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-![Image](https://github.com/user-attachments/assets/f096b63b-13c8-4ce5-80cf-efc3eb8799d4)
+![Screenshot2]
+![Image](https://github.com/user-attachments/assets/d7ae09ca-1faf-4506-9e35-bcd6f20394a5)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-![Image](https://github.com/user-attachments/assets/74e19041-ef93-43d5-9af3-c8053b01d51a)
+![Screenshot3]
+![Image](https://github.com/user-attachments/assets/9fa6b137-1964-4ebb-970c-7fcaf92333f7)
 *Add caption explaining what this shows*
 
-![Screenshot4](Add screenshot 1 here with proper name)
-
-![Image](https://github.com/user-attachments/assets/c752631e-e5e8-422e-98bc-78d41ebb4aa2)
+![Screenshot4]
+![Image](https://github.com/user-attachments/assets/4a44a686-1bf8-47af-8a6e-1273f2ba7721)
 *Add caption explaining what this shows*
 
-![Screenshot5](Add screenshot 2 here with proper name)
-![Image](https://github.com/user-attachments/assets/35008d84-7745-4fe1-b2ed-993eaec43965)
+![Screenshot5]
+![Image](https://github.com/user-attachments/assets/0e16eebf-bea2-4355-9b7e-23d3d752052c)
 *Add caption explaining what this shows*
 
-![Screenshot6](Add screenshot 3 here with proper name)
-![Image](https://github.com/user-attachments/assets/b23a92a6-1ae0-4f86-b8b2-631bc8a5aa62)
+![Screenshot6]
+![Image](https://github.com/user-attachments/assets/f80e8ddd-505d-4a87-9dd8-a678c4a4bba2)
 *Add caption explaining what this shows*
 
-![Screenshot7](Add screenshot 2 here with proper name)
-![Image](https://github.com/user-attachments/assets/d6172968-416e-4ac2-a1f8-b45f3217faed)
+![Screenshot7]
+![Image](https://github.com/user-attachments/assets/f6644f24-3712-4ecd-aaa8-29d42e4c6106)
 *Add caption explaining what this shows*
 
-![Screenshot8](Add screenshot 3 here with proper name)
-![Image](https://github.com/user-attachments/assets/4f4f52e4-ee90-4578-a76e-cb5ee09727c1)
+![Screenshot8]
+![Image](https://github.com/user-attachments/assets/8831972d-5058-4454-979d-18a3d8378cf5)
 *Add caption explaining what this shows*
 
 
