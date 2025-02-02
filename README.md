@@ -6,13 +6,13 @@
 ### Team Members
 - Member 1: Vrishti V Shah - Government Model Engineering College
 - Member 2: Lakshmi R Menon -Government Model Engineering College
-- Member 3: Vrishti V Shah - Government Model Engineering College
+- Member 3: Jenifer maria joseph- Government Model Engineering College
 
 ### Hosted Project Link
 https://cleanaura-a316e.web.app
 
 ### Project Description
-CleanAura is more than just an app—it’s a step toward dignity, safety, and empowerment for women everywhere. No one should have to struggle to find a clean, safe restroom or affordable menstrual hygiene products. With features like a restroom locator, user ratings, and educational resources, CleanAura aims to remove the daily anxieties that many women face. By leveraging technology like Flutter, Firebase, and Google Maps API, we’re building a solution that works even in areas with poor connectivity. Because hygiene isn’t a privilege—it’s a basic human right.
+CleanAura is more than just an app—it’s a step toward dignity, safety, and empowerment for women everywhere. No one should have to struggle to find a clean, safe restroom or affordable menstrual hygiene products. With features like a restroom locator, user ratings, and educational resources, CleanAura aims to remove the daily anxieties that many women face. By leveraging technology like Firebase, and Google Maps API. Because hygiene isn’t a privilege—it’s a basic human right.
 
 ### The Problem statement:The Silent Struggle for Hygiene
 
