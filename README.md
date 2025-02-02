@@ -43,37 +43,37 @@ firebase init
 ### Project Documentation
 For Software:
 # Screenshots (Add at least 3)
-![Screenshot1]
+!LOGIN PAGE
 ![Image](https://github.com/user-attachments/assets/907694c5-0a35-4de6-af9c-b2bbd301c880)
-*Add caption explaining what this shows*
+*IT ALLOWS USER TO SIGN UP/LOG IN
 
-![Screenshot2]
+!LANDING PAGE
 ![Image](https://github.com/user-attachments/assets/d7ae09ca-1faf-4506-9e35-bcd6f20394a5)
-*Add caption explaining what this shows*
+*SHOWS 3 FEATURES OF OUR WEBSITE
 
-![Screenshot3]
+!RESTROOM REVIEWING
 ![Image](https://github.com/user-attachments/assets/9fa6b137-1964-4ebb-970c-7fcaf92333f7)
-*Add caption explaining what this shows*
+*RESTROOM REVIEWING HELPS USER TO RATE VARIOUS RESTROOMS 
 
-![Screenshot4]
+!NAVIGATION
 ![Image](https://github.com/user-attachments/assets/4a44a686-1bf8-47af-8a6e-1273f2ba7721)
-*Add caption explaining what this shows*
+*NAVIGATION OF RESTROOMS
 
-![Screenshot5]
+!DISPENSERY 
 ![Image](https://github.com/user-attachments/assets/0e16eebf-bea2-4355-9b7e-23d3d752052c)
-*Add caption explaining what this shows*
+*DISPENSERY REVIEW AND LOCATION
 
-![Screenshot6]
+!REVIEW FOR PLATFORM
 ![Image](https://github.com/user-attachments/assets/f80e8ddd-505d-4a87-9dd8-a678c4a4bba2)
-*Add caption explaining what this shows*
+*ALLOWS USER TO SHARE THEIR EXPERIENCE WITH US
 
-![Screenshot7]
+!ABOUT US
 ![Image](https://github.com/user-attachments/assets/f6644f24-3712-4ecd-aaa8-29d42e4c6106)
-*Add caption explaining what this shows*
+*OUR VISION
 
-![Screenshot8]
+!CONTACT US
 ![Image](https://github.com/user-attachments/assets/8831972d-5058-4454-979d-18a3d8378cf5)
-*Add caption explaining what this shows*
+*CONTACT PAGE AND INFORMATION
 
 
 ### Project Demo
