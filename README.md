@@ -1,6 +1,4 @@
-# CleanAura 🎯
-
-
+#CleanAura
 ## Platform for menstrual hygiene and personal sanitation-CLEAN AURA
 ### Team Name: CodeCrafters
 
@@ -14,13 +12,15 @@
 https://cleanaura-a316e.web.app
 
 ### Project Description
-[2-3 lines about what your project does]
+CleanAura is more than just an app—it’s a step toward dignity, safety, and empowerment for women everywhere. No one should have to struggle to find a clean, safe restroom or affordable menstrual hygiene products. With features like a restroom locator, user ratings, and educational resources, CleanAura aims to remove the daily anxieties that many women face. By leveraging technology like Flutter, Firebase, and Google Maps API, we’re building a solution that works even in areas with poor connectivity. Because hygiene isn’t a privilege—it’s a basic human right.
 
-### The Problem statement
-[What ridiculous problem are you solving?]
+### The Problem statement:The Silent Struggle for Hygiene
+
+Imagine being out in public, needing a restroom, but every option is either filthy, unsafe, or nonexistent. Now, add the challenge of managing your period with no access to affordable hygiene products. Millions of women face this every day, forced to choose between discomfort, health risks, and sheer frustration.
+CleanAura is solving the ridiculous yet very real problem of inaccessible sanitation and menstrual hygiene. In 2025, people can book space travel, yet finding a clean restroom or an affordable sanitary pad remains a struggle for women across cities and rural areas alike. This app is here to change that—because basic hygiene should never be a luxury.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+CleanAura is a smart, user-driven app that helps women find clean, safe restrooms and affordable menstrual products nearby. With real-time ratings, a restroom locator, and offline access, it ensures hygiene is never out of reach—because dignity and safety should be a right, not a privilege.
 
 ## Technical Details
 ### Technologies/Components Used
@@ -30,17 +30,18 @@ For Software:
 - Libraries used:Google Maps API 
 - Tools used: VScode, Firebase,Figma,ChatGpt,Google Console, Node.js
 
+
 ### Implementation
 For Software:
 # Installation
-[commands]
+firebase login
+firebase init
 
 # Run
-[commands]
+firebase serve
 
 ### Project Documentation
 For Software:
-
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
 ![Image](https://github.com/user-attachments/assets/d44a90c4-9426-4754-8af0-ed9d0c15297b)
@@ -83,9 +84,9 @@ https://youtu.be/FuhiYiniYa8
 
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Jenifer Maria Joseph: Backend database-Firebase
+- Vrishti V Shah: Frontend
+- Lakshmi R Menon- Frameworks and APIs
 
 ---
 Made with ❤️ at TinkerHub
