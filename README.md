@@ -38,7 +38,6 @@ firebase login
 firebase init
 
 # Run
-```bash
  firebase serve
 
 ### Project Documentation
