@@ -1,13 +1,13 @@
 # CleanAura 🎯
 
 
-## Basic Details
-### Team Name: [Name]
+## Platform for menstrual hygiene and personal sanitation
+### Team Name: CodeCrafters
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Vrishti V Shah - Government Model Engineering College
+- Member 2: Lakshmi R - [College]
 - Member 3: [Name] - [College]
 
 ### Hosted Project Link
