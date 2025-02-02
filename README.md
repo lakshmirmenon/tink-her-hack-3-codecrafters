@@ -1,17 +1,17 @@
 # CleanAura 🎯
 
 
-## Platform for menstrual hygiene and personal sanitation
+## Platform for menstrual hygiene and personal sanitation-CLEAN AURA
 ### Team Name: CodeCrafters
 
 
 ### Team Members
 - Member 1: Vrishti V Shah - Government Model Engineering College
-- Member 2: Lakshmi R - [College]
-- Member 3: [Name] - [College]
+- Member 2: Lakshmi R Menon -Government Model Engineering College
+- Member 3: Vrishti V Shah - Government Model Engineering College
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://cleanaura-a316e.web.app
 
 ### Project Description
 [2-3 lines about what your project does]
@@ -25,10 +25,10 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages used:HTML,CSS,JAVASCRIPT
+- Frameworks used:JAVASCRIPT
+- Libraries used:Google Maps API 
+- Tools used: VScode, Firebase,Figma,ChatGpt,Google Console, Node.js
 
 For Hardware:
 - [List main components]
@@ -56,18 +56,6 @@ For Software:
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
 ![Team](Add photo of your team here)
